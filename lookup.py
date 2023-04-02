@@ -43,8 +43,6 @@ try:
         check_url = f'https://api.hackertarget.com/reverseiplookup/?q={args.domain}'
     else:
         check_url = f'https://api.hackertarget.com/dnslookup/?q={args.domain}'
-
-    # Perform the API request
     r = requests.get(check_url)
     r.raise_for_status()
 
