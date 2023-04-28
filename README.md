@@ -4,7 +4,7 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/25004320/229365685-1949b814-0488-4367-b0dd-a1f8d6b45343.png)
 ## Requirements
 - Python3.7+
-## Supported Operating System
+## Supported Os
 - Linuxer
 - Wingays
 ## Get start with
