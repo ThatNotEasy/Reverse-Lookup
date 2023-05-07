@@ -1,4 +1,4 @@
-## DNS and Reverse Domain Lookup with HackerTarget
+## Reverse-Lookup
 - HackerTarget is a platform that offers a suite of cybersecurity tools including DNS and Reverse IP Lookup, that allow users to gather information about network infrastructure and potential vulnerabilities.
 ## Screenshot
 ![Screenshot_1](https://user-images.githubusercontent.com/25004320/236665969-37d22028-3de4-47c7-a060-e081dc656594.png)
